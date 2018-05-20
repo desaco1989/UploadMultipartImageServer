@@ -1,0 +1,11 @@
+http://192.168.3.3:8080/UploadMultipartImageServer/index.html
+http://192.168.3.3:8080/UploadMultipartImageServer/login_sevlet.html
+http://localhost:8080/UploadMultipartImageServer/UserServlet?method=login
+
+
+
+App访问JavaWeb Servlet用户登录接口?
+访问访问Javaweb 的action或Servlet？
+App访问JavaWeb Servlet用户登录接口?
+使用servlet实现用户登录- https://blog.csdn.net/u011526599/article/details/51485683
+
